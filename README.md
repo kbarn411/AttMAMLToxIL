@@ -8,8 +8,8 @@ Manuscript status: submitted (2026)
 
 Files and folders:
 
-data - directory with information on data and scripts to scrap data
-codes - directory with codes used in the study
+- data - directory with information on data and scripts to scrap data
+- codes - directory with codes used in the study
 
 Authors:
 
