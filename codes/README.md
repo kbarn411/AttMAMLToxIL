@@ -11,6 +11,7 @@ karol.baran[at]pg.edu.pl
 - attmaml.py - implementation of Att-MAML
 - learners.py - file containing architecture of neural network
 - utils_codes.py - file with codes mostly regarding preparing and pre-processing data
+- envdep.yaml - file with information on dependencies
 
 ## Dependencies
 
@@ -22,3 +23,5 @@ karol.baran[at]pg.edu.pl
 - sklearn
 - matplotlib
 - pandas
+
+The detailed list available in envdep.yaml
